@@ -1,2 +1,4 @@
+```python
 f = open('your file', 'r')
 f = f.read()
+```
